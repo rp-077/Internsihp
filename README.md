@@ -1,2 +1,2 @@
 # Internsihp
-Encoding and Decoding using Caesar cipher 
+Encryption and Decryption using Caesar cipher 
